@@ -9,7 +9,7 @@ h = 5.0;
 area = (b1 + b2) / 2.0 + h;
 printf("A area do trapezio para: \nb1=6 \nb2=8 \nh=5 \nEh: ");
 printf ("%lf\n", area);
-
+// conforme solicitado no exercio
 
 return 0;
 }
